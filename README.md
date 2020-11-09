@@ -1,6 +1,6 @@
-# resistencia
+# asistencia
 
-El proyecto es de control de asistencia aplicable para colegios, academias de educación superior, universidades, entre otros, por error le puse resistencia cuando el nombre debía ser asistencia !!
+El proyecto es de control de asistencia aplicable para colegios, academias de educación superior, universidades, entre otros.
 
 El funcionamiento de la apliclación se explica en el siguiente enlace:
 
