@@ -1,5 +1,7 @@
 # resistencia
 
+El proyecto es de control de asistencia aplicable para colegios, academias de educación superior, universidades, entre otros, por error le puse resistencia cuando el nombre debía ser asistencia !!
+
 El funcionamiento de la apliclación se explica en el siguiente enlace:
 
 https://www.configuroweb.com/sistema-de-gestion-de-asistencia-usando-php-y-mysql/
